@@ -1,0 +1,41 @@
+[
+    {
+        "customer_name": "retail",
+        "address": "1 bourke st melbourne",
+        "phone_number": "1233455",
+        "item_name": "fish",
+        "quantity": 2,
+        "price_per_item": 10.0,
+        "total_price": 20.0,
+        "discount_rate": 0,
+        "discount_amount": 0,
+        "final_price": 20.0,
+        "order_date": "2025-06-13T18:31:05.592542"
+    },
+    {
+        "customer_name": "Cash Sale",
+        "address": "front counter",
+        "phone_number": "1",
+        "item_name": "Printer",
+        "quantity": 10,
+        "price_per_item": 75.0,
+        "total_price": 750.0,
+        "discount_rate": 0,
+        "discount_amount": 0,
+        "final_price": 750.0,
+        "order_date": "2025-06-18T13:07:18.078671"
+    },
+    {
+        "customer_name": "cash sale",
+        "address": "front counter",
+        "phone_number": "8968686",
+        "item_name": "nbings shoes",
+        "quantity": 10,
+        "price_per_item": 2000.0,
+        "total_price": 20000.0,
+        "discount_rate": 0,
+        "discount_amount": 0,
+        "final_price": 20000.0,
+        "order_date": "2025-06-18T14:05:56.783220"
+    }
+]

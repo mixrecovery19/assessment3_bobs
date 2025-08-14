@@ -1,0 +1,72 @@
+[
+    {
+        "customer_name": "bill",
+        "address": "25 smith stee",
+        "phone_number": "214234",
+        "email": "mi@mi.com",
+        "item_name": "chicken",
+        "quantity": 4,
+        "price_per_item": 10.0,
+        "total_price": 40.0,
+        "discount_rate": 25,
+        "discount_amount": 10.0,
+        "final_price": 30.0,
+        "order_date": "2025-06-13T10:51:58.423512"
+    },
+    {
+        "customer_name": "Pete",
+        "address": "27 Smith Street",
+        "phone_number": "123456789",
+        "email": "pete@pete.com",
+        "item_name": "stereo",
+        "quantity": 10,
+        "price_per_item": 55.0,
+        "total_price": 550.0,
+        "discount_rate": 25,
+        "discount_amount": 137.5,
+        "final_price": 412.5,
+        "order_date": "2025-06-13T18:07:49.892088"
+    },
+    {
+        "customer_name": "George",
+        "address": "1 john st",
+        "phone_number": "1949494",
+        "email": "mic@ck.com",
+        "item_name": "stereo",
+        "quantity": 10,
+        "price_per_item": 55.0,
+        "total_price": 550.0,
+        "discount_rate": 25,
+        "discount_amount": 137.5,
+        "final_price": 412.5,
+        "order_date": "2025-06-13T18:11:20.156189"
+    },
+    {
+        "customer_name": "Barry Smith",
+        "address": "27 John Street",
+        "phone_number": "0873426871256",
+        "email": "mich@gmg.com",
+        "item_name": "stereo",
+        "quantity": 10,
+        "price_per_item": 55.0,
+        "total_price": 550.0,
+        "discount_rate": 25,
+        "discount_amount": 137.5,
+        "final_price": 412.5,
+        "order_date": "2025-06-18T13:06:34.242250"
+    },
+    {
+        "customer_name": "barry smith",
+        "address": "21 smith st",
+        "phone_number": "4754757",
+        "email": "michael@gmail.com",
+        "item_name": "Printer",
+        "quantity": 10,
+        "price_per_item": 75.0,
+        "total_price": 750.0,
+        "discount_rate": 25,
+        "discount_amount": 187.5,
+        "final_price": 562.5,
+        "order_date": "2025-06-18T14:25:22.751554"
+    }
+]
